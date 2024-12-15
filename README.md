@@ -1,6 +1,6 @@
 # **Python: Do Básico ao Avançado** 🐍  
 
-Bem-vindo ao repositório **Python: Do Básico ao Avançado**! Aqui você encontrará conteúdos organizados para aprender Python desde os conceitos fundamentais até tópicos avançados. Seja você um iniciante ou alguém buscando aprimorar seus conhecimentos, este repositório é para você. 🚀  
+Pensando inicialmente para ajudar minha namorada 
 
 ---
 
