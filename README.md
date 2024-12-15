@@ -1,6 +1,6 @@
 # **Python: Do Básico ao Avançado** 🐍  
 
-Pensando inicialmente para ajudar minha namorada 
+Pensando inicialmente para ajudar minha namorada e pessoas que são de outras areas 
 
 ---
 
