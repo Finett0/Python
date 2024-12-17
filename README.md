@@ -1,6 +1,6 @@
-# **Python: Do Básico ao Avançado** 🐍  
+# **Ultra-Aprendizado aplicado a python** 🐍  
 
-Pensando inicialmente para ajudar minha namorada e pessoas que são de outras areas 
+Essa ideia surgiu após eu finalizar a leitura do livro Ultra-Aprendizado do Scott H. Young
 
 ---
 
