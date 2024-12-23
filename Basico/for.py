@@ -24,3 +24,20 @@ for valor in pessoa.values():
 print('\nFor com todos os items do dicionarios')
 for itens in pessoa.items():
     print(itens)
+
+#Função range cria uma sequencia de numeros 
+
+for num in range(6):
+    print(f'Numero:{num}')
+
+#Função len() retorna o numero de elementos em um obejto
+lista = [1,2,3,4,5,6]
+tamanho_lista = len(lista)
+print(f'O tamanho da lista é {tamanho_lista} elementos')
+
+#Função enumerate retorna o indice mais o valor do elemento
+print('\n')
+lista_e = ["A","B","C","D"]
+for indice,valor in enumerate(lista_e):
+    print(f'Indice: ',indice)
+    print(f'Valor:',valor)
