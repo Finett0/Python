@@ -1,4 +1,4 @@
-#Só existe dois tipos de dados boleanos, o verdadeira e a falss
+#Só existe dois tipos de dados boleanos, o verdadeira e a falsos
 
 verdadeiro = True
 falso = False
