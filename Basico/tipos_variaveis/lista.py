@@ -29,7 +29,7 @@ print("lista_numerica.append(7)",lista_numerica)
 indice = lista_numerica[0]
 print(f'\nIndice 0 = {indice}')
 
-#Metodo insert insero um elemento em um determinado indice
+#Metodo insert insere um elemento em um determinado indice
 print(lista_numerica)
 lista_numerica.insert(1,10)
 print(f'\n lista_numerica.insert(1,10) {lista_numerica}')
