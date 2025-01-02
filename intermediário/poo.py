@@ -2,7 +2,7 @@
 
 #Classe exemplo
 class Pessoa:
-    def __init__(self,nome,idade): #Init é o metodo construtor da classe
+    def __init__(self,nome,idade): #Init é o metodo construtor da classe (um metodo é quando está dentro de uma classe, e uma função é quando está fora)
         self.nome = nome
         self.idade = idade
 
