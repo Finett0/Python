@@ -8,7 +8,7 @@ app = Flask(__name__) #A variavel app é uma instacia da classe Flask
 def hello_world():#O decorador @app.route("/") associa a URL raiz (/) à função hello_world.
     return "Hello World!"
 
-@app.route("/about")
+@app.route("/about")# #Dentro dos parenteses passamos o end point
 def about():
     return "Página Sobre"
 
