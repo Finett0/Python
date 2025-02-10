@@ -1,4 +1,4 @@
-# use o "jogo da velha" para comentarios de uma linha
+# use o "jogo da velha" para comentarios de uma linh
 
 """
 
