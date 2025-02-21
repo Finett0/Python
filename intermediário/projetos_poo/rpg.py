@@ -99,6 +99,6 @@ class Jogo:
         else:
             print("\nVocê foi derrotado!")
 
-#Criar instância do jogo e iniciar batalha
+#Criar instância do jogo e iniciar batalhaa
 jogo = Jogo()
 jogo.iniciar_batalha()
