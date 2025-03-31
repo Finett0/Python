@@ -10,5 +10,5 @@ def hello_world():
 def about():
     return f'Pagina Sobre'
 
-if __name__ == '__main__': #Esse bloco verifica se o script está sendo executado diretamente
+if __name__ == '__main__': #Esse bloco verifica se o script está sendo executado diretamente..
     app.run(debug=True)
