@@ -20,7 +20,7 @@ class ContaBancaria:
             return self.__saldo
 
     def sacar(self,numeroConta,valor):
-        if valor <= self.__saldo:
+        if valor <= self.__saldo and numeroConta == self.__numeroConta:
             self.__saldo -= valor
             return self.__saldo
         
@@ -28,3 +28,13 @@ class ContaBancaria:
         if numeroConta == self.__numeroConta:
             return self.__saldo
         
+
+giovanni = ContaBancaria(numeroConta=55264,titular="Giovanni",saldo=1000,)
+
+print(giovanni.get_titular(),giovanni.get_conta(),giovanni.get_saldo())
+
+giovanni.depositar(55264,1000)
+print(giovanni.consultarSaldo(55264))
+giovanni.sacar(55264,1500)
+print(giovanni.consultarSaldo(55264))
+
