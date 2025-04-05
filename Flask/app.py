@@ -1,5 +1,5 @@
 from flask import Flask #Aqui a classe Flask é importada da biblioteca Flask
-#Criando uma instanci
+#Criando uma instancia
 app = Flask(__name__) # O argumento __name__ é usado para ajudar o Flask a localizar recursos como templates e arquivos estáticos.
 
 @app.route("/") # é um decorator que associa a função hello_world à rota raiz ("/"). Quando alguém acessa http://127.0.0.1:5000/, o Flask chama a função hello_world
